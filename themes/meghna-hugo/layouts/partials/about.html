@@ -14,9 +14,8 @@
 
             {{ range .Site.Data.about.aboutItem }}
             {{"<!-- About item -->" | safeHTML}}
-            
             <div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
-                <a href={{.Content}}>
+                {{ with .content }}<a href="{{ . }}">{{end}}
                 <div class="block">
                     <div class="icon-box">
                         {{with .icon}}<i class="{{ . }}"></i>{{ end }}
@@ -24,11 +23,11 @@
                     {{"<!-- Express About Yourself -->" | safeHTML}}
                     <div class="content text-center">
                         {{ with .title }}<h3 class="ddd">{{ . }}</h3>{{ end }}
-                     
+                        {{ with .content}}  <p>{{ . }}</p>{{ end }}
                     </div>
                 </div>
             </div>
-        </a>
+            </a>
             {{ end }}
         </div>
     </div>
