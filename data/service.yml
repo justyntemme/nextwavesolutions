@@ -1,0 +1,19 @@
+enable : true
+heading : Our
+headingSpan : Companies
+serviceItem :
+- icon : tf-tools
+  title : Engineering
+  content : Our engineering team is constantly pushing the edge of technology. By adapting future industry standards earlier, we put our clients in front of their competition. From machine learning to front end web development and everything in between. Let us create something fo ryou.
+
+- icon : tf-strategy
+  title : Marketing
+  content : The marketing team is filled with bright individuals who think outside the box to create marketing strategies that excced expectations.
+
+- icon : tf-anchor2
+  title : Graphic Design
+  content : Our graphics team brings an attention to detail that gives all of our content a polish of professionalism. From apps to webpages and everything in between, our team takes pride in everything they do.
+  
+- icon : fa-headphones
+  title : Music
+  content : The music team brings together cultures from all over the globe to create true art. Art is not defined by genres, but is in fact the combination of grenes to act as colors in an artist pallet"

@@ -1,0 +1,16 @@
+enable : true
+heading : About
+headingSpan : Us
+aboutItem : 
+  - icon : tf-globe
+    title : Development
+    content : https://development.nextwavesolutions.io
+    
+  - icon : tf-ion-laptop
+    title : Music
+    content : https://nextwavemusic.io
+    
+  - icon : tf-genius
+    title : Marketing
+    content : https://marketing.nextwavesolutions.io
+    

@@ -1,7 +1,7 @@
-baseURL = "https://nextwavesolutions/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "NextWave Solutions"
+title = "Meghna"
 theme = "meghna-hugo"
 summaryLength = 10
 
@@ -53,8 +53,8 @@ home= "Home"
 logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
-description = "A Creation Compay"
-author = "Justyn Temme"
+description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 custom_css = ["css/custom.css"]
@@ -64,8 +64,8 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
-    heading = "NextWave Solutions"
-    content= "A Creation Company"
+    heading = "Experience the new reality"
+    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
     btn = true
     btnText="Explore Us"
     btnURL="#services"
