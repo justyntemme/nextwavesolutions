@@ -2,15 +2,15 @@ enable : true
 heading : Our
 headingSpan : Skills
 title : We’ve skilled in wide range of web and Other digital market tools.
-content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+content : We have a team with a wide range of skillsets that can fit any project need.
 image : images/about/company-growth.png
 skillItem :
   - itemNumber : 01-
-    itemName :  Business Development
+    itemName :  International Business Development
     itemPercent : 90%
     
   - itemNumber : 02-
-    itemName :  Analysis
+    itemName :  Market Analysis
     itemPercent : 70%
     
   - itemNumber : 03-
@@ -18,9 +18,9 @@ skillItem :
     itemPercent : 80%
     
   - itemNumber : 04-
-    itemName :  IOS Development
+    itemName :  Blockchain Technology
     itemPercent : 95%
     
   - itemNumber : 05-
-    itemName :  Andriod Development
+    itemName :  Social Media Marketing
     itemPercent : 75%

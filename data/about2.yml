@@ -1,13 +1,12 @@
 enable : true
 image : images/about/about-business-man.jpg
-title : We’re A creations company
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+title : We are a creations company
+description : Meeting the needs of the client often requires s multi-faceted solution from several different types of engineers. From SEO to machine learning NextWave has you covered.
 aboutItem : 
   - icon : tf-circle-compass
     title : SEO Optimized
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    content : Our copy writers have trained on google courses to better understand the search algorithm to guarentee top placements.
     
   - icon : tf-hotairballoon
-    title : Easy Customization
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    title : Global Insights
+    content : With team members from across the globe, our focus is often on the global stage rather than local.
