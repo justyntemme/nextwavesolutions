@@ -3,32 +3,23 @@ heading : Our
 headingSpan : Team
 teamMember :
   - image : images/team/team-1.jpg
-    name : Abul Mal Muhit
+    name : Justyn Temme
     designation : CEO/Founder
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : With a passion for leadership and bringing groups together, Justyn leads NextWave in bringing in the best talent around the worldl to work on bleeding edge products.
     socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "https://twitter.com/justyntemme"
       - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+        url : "https://www.linkedin.com/in/justyn-temme"
       
   - image : images/team/team-2.jpg
-    name : Frank Miller
-    designation : Manager
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    name : Eli Fast
+    designation : Production Team Lead
+    description : From managing producers, to managing production art content, Eli brings a combination of skills to the team to ensure the quality of all work published by NextWave sets a bar tough for our competitors to match.
     socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
       - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+        url : "https://twitter.com/elifast1"
+
       
   - image : images/team/team-3.jpg
     name : Michael Jonson
